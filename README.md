@@ -9,7 +9,7 @@ package main
 
 import "fmt"
 
-type Thing struct {
+type User struct {
   name string
   username string
   age int
