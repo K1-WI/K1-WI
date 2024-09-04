@@ -21,7 +21,7 @@ func main() {
   
   me.name     = "K1-WI"
   me.username = "K1-WI"
-  me.age      = "??"
+  me.age      = "0"
   me.job      = "??"
 }
   
