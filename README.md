@@ -32,9 +32,6 @@ func main() {
 <!--- <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a> -->
 <!--- <p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN"> -->
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-
 
 <p align="center">
 
